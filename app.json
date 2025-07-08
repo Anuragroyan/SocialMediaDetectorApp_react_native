@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "SocialMediaDetectorApp",
+    "slug": "SocialMediaDetectorApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mediaicon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/mediaicon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/mediaicon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/mediaicon.png"
+    }
+  }
+}
